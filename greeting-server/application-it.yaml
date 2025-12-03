@@ -13,5 +13,5 @@ management:
     health:
       show-details: ALWAYS
 greeting-service:
-  greeting: "Cião"
+  greeting: "Pronto"
   default-value: "Mondo"
